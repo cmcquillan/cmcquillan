@@ -44,7 +44,7 @@ namespace Updater
             
             Console.Error.WriteLine(path);
             Console.Error.WriteLine(Directory.GetCurrentDirectory());
-            // Console.Error.WriteLine(readmeText);
+            Console.Error.WriteLine(readmeText);
 
             foreach(var item in timeline)
             {
