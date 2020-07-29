@@ -19,11 +19,12 @@ namespace Updater
             var consumerSecret = args[1];
             var accessToken = args[2];
             var accessTokenSecret = args[3];
+            var path = args[4];
 
             var credentials = Auth.SetUserCredentials(consumerKey, consumerSecret, accessToken, accessTokenSecret);
 
             var user = User.GetAuthenticatedUser(credentials);
-            var readmeText = File.ReadAllText("README.md", Encoding.UTF8);
+            var readmeText = File.ReadAllText(path, Encoding.UTF8);
 
             var parameter = Timeline.CreateUserTimelineParameter();
             parameter.IncludeRTS = false;
