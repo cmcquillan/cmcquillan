@@ -17,7 +17,7 @@ jobs:
     - name: Update Readme
       shell: bash
       working-directory: ${{ github.workspace	}}
-      run: dotnet run --project ./Updater -- ${{ secrets.consumerKey }} ${{ secrets.consumerSecret }} ${{ secrets.accessToken }} ${{ secrets.accessTokenSecret }} "${{ github.workspace}}/README.md" > README.md
+      run: dotnet run --project ./Updater -- ${{ secrets.consumerKey }} ${{ secrets.consumerSecret }} ${{ secrets.accessToken }} ${{ secrets.accessTokenSecret }} "${{ github.workspace}}/README.md"
     - name: Commit Changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
