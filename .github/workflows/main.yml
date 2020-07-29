@@ -13,7 +13,7 @@ jobs:
         dotnet-version: '5.0.100-preview.7.20366.6'
     - name: Debug Directory
       shell: bash
-      run: cat README.md
+      run: ls ${{ github.workspace }}
     - name: Update Readme
       shell: bash
       working-directory: ${{ github.workspace	}}
