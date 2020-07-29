@@ -21,7 +21,7 @@ namespace Updater
             var credentials = Auth.SetUserCredentials(consumerKey, consumerSecret, accessToken, accessTokenSecret);
 
             var user = User.GetAuthenticatedUser(credentials);
-            var readmeText = File.ReadAllText("Readme.md");
+            var readmeText = File.ReadAllText("README.md");
 
             var parameter = Timeline.CreateUserTimelineParameter();
             parameter.IncludeRTS = false;
