@@ -11,8 +11,12 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '5.0.100-preview.7.20366.6'
+    - name: Debug Directory
+      shell: bash
+      run: ls
     - name: Update Readme
       shell: bash
+      working-directory: ${{ github.workspace	}}
       run: dotnet run --project ./Updater -- ${{ secrets.consumerKey }} ${{ secrets.consumerSecret }} ${{ secrets.accessToken }} ${{ secrets.accessTokenSecret }} > README.md
     - name: Commit Changes
       uses: stefanzweifel/git-auto-commit-action@v4
