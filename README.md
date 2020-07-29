@@ -1,6 +1,12 @@
-# Boom!
+# 👋 Hi! I'm Casey McQuillan
 
-Check it out.
+- 💻 I'm a full-stack freelance developer specializing in `.NET`, `C#`, `Azure Cloud`, and `API development` 💻
+- 🌴 I live in sunny southern California 🌴
+- 📲 If you want to talk to me, you can reach out on [Twitter](https://twitter.com/QuillCodes) 📲
+
+
+
+## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
 #### [2020 is starting to give me the awkward witcher cutscene vibe.](https://twitter.com/QuillCodes/status/1288155622005813253)
