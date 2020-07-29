@@ -11,6 +11,8 @@ namespace Updater
         public const string TWEET_ANCHOR = "<!-- BEGIN TWEETS -->";
         public const string END_TWEET_ANCHOR = "<!-- END TWEETS -->";
 
+        public const int MAX_TWEETS = 7;
+
         static int Main(string[] args)
         {
             var consumerKey = args[0];
@@ -26,7 +28,7 @@ namespace Updater
             var parameter = Timeline.CreateUserTimelineParameter();
             parameter.IncludeRTS = false;
             parameter.ExcludeReplies = true;
-            parameter.MaximumNumberOfTweetsToRetrieve = 7;
+            parameter.MaximumNumberOfTweetsToRetrieve = 100;
 
             var timeline = Timeline.GetUserTimeline(user.Id, parameter);
 
@@ -37,6 +39,8 @@ namespace Updater
 
             strTweets.Append(readmeText[0..tweetsStart]);
 
+            var tweetCount = 0;
+
             foreach(var item in timeline)
             {
                 var tweetText = item.Text.Replace("\n", "");
@@ -45,6 +49,11 @@ namespace Updater
                 strTweets.AppendLine()
                     .AppendFormat("#### [{0}]({1})", tweetText, item.Url)
                     .AppendLine();
+
+                tweetCount++;
+
+                if(tweetCount >= MAX_TWEETS)
+                    break;
             }
 
             strTweets.Append(readmeText[tweetsEnd..]);
