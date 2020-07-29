@@ -1,9 +1,6 @@
 name: Update Readme 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  workflow_dispatch
 
 jobs:
   build:
@@ -14,4 +11,12 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '5.0.100-preview.7.20366.6'
-
+    - name: Update Readme
+      shell: bash
+      run: dotnet run --project ./Updater -- ${{ secrets.consumerKey }} ${{ secrets.consumerSecret }} ${{ secrets.accessToken }} ${{ secrets.accessTokenSecret }} > README.md
+    - name: Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Apply automatic changes
+        branch: master
+        file_pattern: README.md
