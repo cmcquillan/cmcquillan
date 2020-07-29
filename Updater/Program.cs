@@ -41,8 +41,9 @@ namespace Updater
             strTweets.Append(readmeText[0..tweetsStart]);
 
             var tweetCount = 0;
+            
             Console.Error.WriteLine(Directory.GetCurrentDirectory());
-            Console.Error.WriteLine(readmeText);
+            // Console.Error.WriteLine(readmeText);
 
             foreach(var item in timeline)
             {
