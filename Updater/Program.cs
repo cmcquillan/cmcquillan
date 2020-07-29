@@ -42,6 +42,7 @@ namespace Updater
 
             var tweetCount = 0;
             
+            Console.Error.WriteLine(path);
             Console.Error.WriteLine(Directory.GetCurrentDirectory());
             // Console.Error.WriteLine(readmeText);
 
