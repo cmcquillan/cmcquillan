@@ -9,6 +9,8 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Someone should tell them what happens to species that can't adapt to a changing environment.](https://twitter.com/QuillCodes/status/1289970851169726465)
+
 #### [The new Bing webmaster tools are actually pretty great. Can't wait to see if they improve my Google ranking 🧐](https://twitter.com/QuillCodes/status/1288577838564532224)
 
 #### [2020 is starting to give me the awkward witcher cutscene vibe.](https://twitter.com/QuillCodes/status/1288155622005813253)
@@ -20,8 +22,6 @@
 #### [I have a joke about baking bread but nobody kneads to hear it](https://twitter.com/QuillCodes/status/1287151442130644992)
 
 #### [I have a C joke but itSegmentation Fault](https://twitter.com/QuillCodes/status/1287075570392522752)
-
-#### [This is great. A wiki written in just over 400 lines of code. Every new version of C# gets us closer to rapid functional prototypes without 9 layers of perfectly curated abstraction. I want #dotnet to be able to build the whole spectrum! ](https://twitter.com/QuillCodes/status/1286087682490109955)
 <!-- END TWEETS -->
 
 <!--
