@@ -9,6 +9,8 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Had a bug today caused by incorrect ordering of static initializers. Great reminder that they run in textual order and do not care whether they have dependencies on one another. #dotnet #csharpCreated with @carbon_app ](https://twitter.com/QuillCodes/status/1292882966629117952)
+
 #### [Building a basic Sudoku Grid in SVG. First time venturing into writing SVG by hand! #100DaysOfCode   via @CodePen](https://twitter.com/QuillCodes/status/1292691952274612224)
 
 #### [This is the end. I might just die from this thread. 🤣](https://twitter.com/QuillCodes/status/1291982246790828033)
@@ -20,8 +22,6 @@
 #### [2020 is starting to give me the awkward witcher cutscene vibe.](https://twitter.com/QuillCodes/status/1288155622005813253)
 
 #### [Really dig the sample code for shapes and paths in XAML. Excited to try this out!](https://twitter.com/QuillCodes/status/1288145739214774274)
-
-#### [Is there a #dotnet code analyzer that can identify that the new class/interface I'm writing is not currently added to Dependency Injection and suggests a refactoring to add it?](https://twitter.com/QuillCodes/status/1287592109139095554)
 <!-- END TWEETS -->
 
 <!--
