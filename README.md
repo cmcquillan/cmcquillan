@@ -9,6 +9,8 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Building a basic Sudoku Grid in SVG. First time venturing into writing SVG by hand! #100DaysOfCode   via @CodePen](https://twitter.com/QuillCodes/status/1292691952274612224)
+
 #### [This is the end. I might just die from this thread. 🤣](https://twitter.com/QuillCodes/status/1291982246790828033)
 
 #### [Someone should tell them what happens to species that can't adapt to a changing environment.](https://twitter.com/QuillCodes/status/1289970851169726465)
@@ -20,8 +22,6 @@
 #### [Really dig the sample code for shapes and paths in XAML. Excited to try this out!](https://twitter.com/QuillCodes/status/1288145739214774274)
 
 #### [Is there a #dotnet code analyzer that can identify that the new class/interface I'm writing is not currently added to Dependency Injection and suggests a refactoring to add it?](https://twitter.com/QuillCodes/status/1287592109139095554)
-
-#### [I have a joke about baking bread but nobody kneads to hear it](https://twitter.com/QuillCodes/status/1287151442130644992)
 <!-- END TWEETS -->
 
 <!--
