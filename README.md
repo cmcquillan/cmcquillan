@@ -9,6 +9,8 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Yes, Government Services cost money and in exchange you get mail delivery under what a private company would charge.Funnily enough. Mail delivery is actually profitable. Congress literally mandates that the USPS write a check that puts them negative every year.](https://twitter.com/QuillCodes/status/1295068257502687235)
+
 #### [Had a bug today caused by incorrect ordering of static initializers. Great reminder that they run in textual order and do not care whether they have dependencies on one another. #dotnet #csharpCreated with @carbon_app ](https://twitter.com/QuillCodes/status/1292882966629117952)
 
 #### [Building a basic Sudoku Grid in SVG. First time venturing into writing SVG by hand! #100DaysOfCode   via @CodePen](https://twitter.com/QuillCodes/status/1292691952274612224)
@@ -20,8 +22,6 @@
 #### [The new Bing webmaster tools are actually pretty great. Can't wait to see if they improve my Google ranking 🧐](https://twitter.com/QuillCodes/status/1288577838564532224)
 
 #### [2020 is starting to give me the awkward witcher cutscene vibe.](https://twitter.com/QuillCodes/status/1288155622005813253)
-
-#### [Really dig the sample code for shapes and paths in XAML. Excited to try this out!](https://twitter.com/QuillCodes/status/1288145739214774274)
 <!-- END TWEETS -->
 
 <!--
