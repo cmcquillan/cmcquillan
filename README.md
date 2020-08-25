@@ -9,6 +9,8 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Been waiting for this preview for a while! Got a growing project that is in desperate need of the CSS isolation and Head tag features 😍](https://twitter.com/QuillCodes/status/1298383202642354176)
+
 #### [Been trying to create clean-looking effects like this in my current #xamarinforms project. Can't wait to try this package.#dotnet](https://twitter.com/QuillCodes/status/1298370812727005185)
 
 #### [Replicating my recent tweets on my @github profile Readme using Github Actions, .NET Core, and @TweetinviApi. Great quick project to quickly mash up a few awesome technologies!#100DaysOfCode](https://twitter.com/QuillCodes/status/1296178072077520896)
@@ -20,8 +22,6 @@
 #### [Building a basic Sudoku Grid in SVG. First time venturing into writing SVG by hand! #100DaysOfCode   via @CodePen](https://twitter.com/QuillCodes/status/1292691952274612224)
 
 #### [This is the end. I might just die from this thread. 🤣](https://twitter.com/QuillCodes/status/1291982246790828033)
-
-#### [Someone should tell them what happens to species that can't adapt to a changing environment.](https://twitter.com/QuillCodes/status/1289970851169726465)
 <!-- END TWEETS -->
 
 <!--
