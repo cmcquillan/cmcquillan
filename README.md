@@ -9,6 +9,8 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Before 2020 I never expected we'd call in the NBA to save Democracy but here we are 🤷](https://twitter.com/QuillCodes/status/1299403245341736960)
+
 #### [Been waiting for this preview for a while! Got a growing project that is in desperate need of the CSS isolation and Head tag features 😍](https://twitter.com/QuillCodes/status/1298383202642354176)
 
 #### [Been trying to create clean-looking effects like this in my current #xamarinforms project. Can't wait to try this package.#dotnet](https://twitter.com/QuillCodes/status/1298370812727005185)
@@ -20,8 +22,6 @@
 #### [Had a bug today caused by incorrect ordering of static initializers. Great reminder that they run in textual order and do not care whether they have dependencies on one another. #dotnet #csharpCreated with @carbon_app ](https://twitter.com/QuillCodes/status/1292882966629117952)
 
 #### [Building a basic Sudoku Grid in SVG. First time venturing into writing SVG by hand! #100DaysOfCode   via @CodePen](https://twitter.com/QuillCodes/status/1292691952274612224)
-
-#### [This is the end. I might just die from this thread. 🤣](https://twitter.com/QuillCodes/status/1291982246790828033)
 <!-- END TWEETS -->
 
 <!--
