@@ -9,6 +9,8 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [2020: The President says cans of soup are being thrown at copsMe: Nothing about this surprises me2020: Iron Man is real and he's buzzing airliners at LAX Me: 🤯](https://twitter.com/QuillCodes/status/1301184112380665859)
+
 #### [Before 2020 I never expected we'd call in the NBA to save Democracy but here we are 🤷](https://twitter.com/QuillCodes/status/1299403245341736960)
 
 #### [Been waiting for this preview for a while! Got a growing project that is in desperate need of the CSS isolation and Head tag features 😍](https://twitter.com/QuillCodes/status/1298383202642354176)
@@ -20,8 +22,6 @@
 #### [Yes, Government Services cost money and in exchange you get mail delivery under what a private company would charge.Funnily enough. Mail delivery is actually profitable. Congress literally mandates that the USPS write a check that puts them negative every year.](https://twitter.com/QuillCodes/status/1295068257502687235)
 
 #### [Had a bug today caused by incorrect ordering of static initializers. Great reminder that they run in textual order and do not care whether they have dependencies on one another. #dotnet #csharpCreated with @carbon_app ](https://twitter.com/QuillCodes/status/1292882966629117952)
-
-#### [Building a basic Sudoku Grid in SVG. First time venturing into writing SVG by hand! #100DaysOfCode   via @CodePen](https://twitter.com/QuillCodes/status/1292691952274612224)
 <!-- END TWEETS -->
 
 <!--
