@@ -46,6 +46,7 @@ namespace Updater
             {
                 var tweetText = item.Text.Replace("\n", "");
                 tweetText = Regex.Replace(tweetText, @"https://t\.co/[a-zA-Z0-9]+", "");
+                tweetText = tweetText.Replace(Environment.NewLine, "<br />");
 
                 strTweets.AppendLine()
                     .AppendFormat("#### [{0}]({1})", tweetText, item.Url)
