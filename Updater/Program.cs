@@ -55,6 +55,10 @@ namespace Updater
 
                 if(tweetCount >= MAX_TWEETS)
                     break;
+
+                strTweets.AppendLine()
+                    .AppendLine("---")
+                    .AppendLine();
             }
 
             strTweets.Append(readmeText[tweetsEnd..]);
