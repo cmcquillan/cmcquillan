@@ -9,6 +9,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Taken multiple DevOps screening exams in the past few weeks. <br /><br />9/10 questions are just Linux command corner cases 🤷‍♂️<br /><br />Nothing asked on kubernetes, docker, git, CI/CD, resource provisioning.<br /><br />Am I misunderstanding DevOps? Is it all bash scripts⁉️<br /><br />#devops](https://twitter.com/QuillCodes/status/1301730936757739522)
+
+---
+
+
 #### [2020: The President says cans of soup are being thrown at cops<br /><br />Me: Nothing about this surprises me<br /><br />2020: Iron Man is real and he's buzzing airliners at LAX <br /><br />Me: 🤯](https://twitter.com/QuillCodes/status/1301184112380665859)
 
 ---
@@ -35,11 +40,6 @@
 
 
 #### [Yes, Government Services cost money and in exchange you get mail delivery under what a private company would charge.<br /><br />Funnily enough. Mail delivery is actually profitable. Congress literally mandates that the USPS write a check that puts them negative every year.](https://twitter.com/QuillCodes/status/1295068257502687235)
-
----
-
-
-#### [Had a bug today caused by incorrect ordering of static initializers. Great reminder that they run in textual order and do not care whether they have dependencies on one another. <br /><br />#dotnet #csharp<br /><br />Created with @carbon_app ](https://twitter.com/QuillCodes/status/1292882966629117952)
 <!-- END TWEETS -->
 
 <!--
