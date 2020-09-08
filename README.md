@@ -9,6 +9,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [#dotnet seems to be lacking a modern Stackronym<br /><br />Other communities have MERN, LAMP, JAM, etc. <br /><br />Maybe CASK?<br /><br />CSharp<br />ASPNET<br />SQL Server<br />Kestrel](https://twitter.com/QuillCodes/status/1303369595919581185)
+
+---
+
+
 #### [Taken multiple DevOps screening exams in the past few weeks. <br /><br />9/10 questions are just Linux command corner cases 🤷‍♂️<br /><br />Nothing asked on kubernetes, docker, git, CI/CD, resource provisioning.<br /><br />Am I misunderstanding DevOps? Is it all bash scripts⁉️<br /><br />#devops](https://twitter.com/QuillCodes/status/1301730936757739522)
 
 ---
@@ -35,11 +40,6 @@
 
 
 #### [Replicating my recent tweets on my @github profile Readme using Github Actions, .NET Core, and @TweetinviApi. Great quick project to quickly mash up a few awesome technologies!<br />#100DaysOfCode](https://twitter.com/QuillCodes/status/1296178072077520896)
-
----
-
-
-#### [Yes, Government Services cost money and in exchange you get mail delivery under what a private company would charge.<br /><br />Funnily enough. Mail delivery is actually profitable. Congress literally mandates that the USPS write a check that puts them negative every year.](https://twitter.com/QuillCodes/status/1295068257502687235)
 <!-- END TWEETS -->
 
 <!--
