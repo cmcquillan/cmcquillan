@@ -9,6 +9,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Voting my mail means you can vote naked. <br /><br />That's It. That's the Tweet.](https://twitter.com/QuillCodes/status/1303875844192874496)
+
+---
+
+
 #### [#dotnet seems to be lacking a modern Stackronym<br /><br />Other communities have MERN, LAMP, JAM, etc. <br /><br />Maybe CASK?<br /><br />CSharp<br />ASPNET<br />SQL Server<br />Kestrel](https://twitter.com/QuillCodes/status/1303369595919581185)
 
 ---
@@ -35,11 +40,6 @@
 
 
 #### [Been trying to create clean-looking effects like this in my current #xamarinforms project. <br /><br />Can't wait to try this package.<br /><br />#dotnet](https://twitter.com/QuillCodes/status/1298370812727005185)
-
----
-
-
-#### [Replicating my recent tweets on my @github profile Readme using Github Actions, .NET Core, and @TweetinviApi. Great quick project to quickly mash up a few awesome technologies!<br />#100DaysOfCode](https://twitter.com/QuillCodes/status/1296178072077520896)
 <!-- END TWEETS -->
 
 <!--
