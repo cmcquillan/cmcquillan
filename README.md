@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Are your followers part of the Herd Brentality? 🤔](https://twitter.com/QuillCodes/status/1306095434822115328)
+
+---
+
+
 #### [Voting my mail means you can vote naked. <br /><br />That's It. That's the Tweet.](https://twitter.com/QuillCodes/status/1303875844192874496)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Been waiting for this preview for a while! Got a growing project that is in desperate need of the CSS isolation and Head tag features 😍<br /><br />](https://twitter.com/QuillCodes/status/1298383202642354176)
-
----
-
-
-#### [Been trying to create clean-looking effects like this in my current #xamarinforms project. <br /><br />Can't wait to try this package.<br /><br />#dotnet](https://twitter.com/QuillCodes/status/1298370812727005185)
 <!-- END TWEETS -->
 
 <!--
