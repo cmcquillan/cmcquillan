@@ -3,7 +3,8 @@
 - 💻 I'm a full-stack freelance developer specializing in `.NET`, `C#`, `Azure Cloud`, and `API development` 💻
 - 🌴 I live in sunny southern California 🌴
 - 📲 If you want to talk to me, you can reach out on [Twitter](https://twitter.com/QuillCodes) 📲
-
+- ✍ I'm starting to blog over at [Quill.Codes](https://quill.codes/). Let me know what you think! ✍
+- 🦾 If you need technical consulting you can check out my services at [quilltechnologies.com](https://quilltechnologies.com/) 🦿
 
 
 ## Recent Twitter Feed (updated hourly)
