@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [What's stopping you from coding like this?](https://twitter.com/QuillCodes/status/1306830169013805056)
+
+---
+
+
 #### [Are your followers part of the Herd Brentality? 🤔](https://twitter.com/QuillCodes/status/1306095434822115328)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Before 2020 I never expected we'd call in the NBA to save Democracy but here we are 🤷](https://twitter.com/QuillCodes/status/1299403245341736960)
-
----
-
-
-#### [Been waiting for this preview for a while! Got a growing project that is in desperate need of the CSS isolation and Head tag features 😍<br /><br />](https://twitter.com/QuillCodes/status/1298383202642354176)
 <!-- END TWEETS -->
 
 <!--
