@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Does #breadtwitter exist? Just feeling pretty proud of this sourdough.](https://twitter.com/QuillCodes/status/1309193942034857986)
+
+---
+
+
 #### [Hoping to make access to #dotnet a little easier by showing how you can rapidly prototype a URL Shortener with .NET 5 and LiteDB<br /><br />](https://twitter.com/QuillCodes/status/1309166400351735808)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Taken multiple DevOps screening exams in the past few weeks. <br /><br />9/10 questions are just Linux command corner cases 🤷‍♂️<br /><br />Nothing asked on kubernetes, docker, git, CI/CD, resource provisioning.<br /><br />Am I misunderstanding DevOps? Is it all bash scripts⁉️<br /><br />#devops](https://twitter.com/QuillCodes/status/1301730936757739522)
-
----
-
-
-#### [2020: The President says cans of soup are being thrown at cops<br /><br />Me: Nothing about this surprises me<br /><br />2020: Iron Man is real and he's buzzing airliners at LAX <br /><br />Me: 🤯](https://twitter.com/QuillCodes/status/1301184112380665859)
 <!-- END TWEETS -->
 
 <!--
