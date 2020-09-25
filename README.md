@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Haven't been out of my house since March. Very grating but so very important 😬 ](https://twitter.com/QuillCodes/status/1309575657781780480)
+
+---
+
+
 #### [Does #breadtwitter exist? Just feeling pretty proud of this sourdough.](https://twitter.com/QuillCodes/status/1309193942034857986)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [#dotnet seems to be lacking a modern Stackronym<br /><br />Other communities have MERN, LAMP, JAM, etc. <br /><br />Maybe CASK?<br /><br />CSharp<br />ASPNET<br />SQL Server<br />Kestrel](https://twitter.com/QuillCodes/status/1303369595919581185)
-
----
-
-
-#### [Taken multiple DevOps screening exams in the past few weeks. <br /><br />9/10 questions are just Linux command corner cases 🤷‍♂️<br /><br />Nothing asked on kubernetes, docker, git, CI/CD, resource provisioning.<br /><br />Am I misunderstanding DevOps? Is it all bash scripts⁉️<br /><br />#devops](https://twitter.com/QuillCodes/status/1301730936757739522)
 <!-- END TWEETS -->
 
 <!--
