@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [What are some #dotnet anti-patterns that have made you do a double-take? <br /><br />Maybe something easily overlooked until you actually dug in and saw it being used.<br /><br />I still have nightmares of an enum called ExtendedBool 😬](https://twitter.com/QuillCodes/status/1309687078754476033)
+
+---
+
+
 #### [Haven't been out of my house since March. Very grating but so very important 😬 ](https://twitter.com/QuillCodes/status/1309575657781780480)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Voting my mail means you can vote naked. <br /><br />That's It. That's the Tweet.](https://twitter.com/QuillCodes/status/1303875844192874496)
-
----
-
-
-#### [#dotnet seems to be lacking a modern Stackronym<br /><br />Other communities have MERN, LAMP, JAM, etc. <br /><br />Maybe CASK?<br /><br />CSharp<br />ASPNET<br />SQL Server<br />Kestrel](https://twitter.com/QuillCodes/status/1303369595919581185)
 <!-- END TWEETS -->
 
 <!--
