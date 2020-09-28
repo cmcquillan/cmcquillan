@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Strange things you can do with Trump's tax money: you can probably get a pet capybara for the amount of money Trump has paid in taxes.](https://twitter.com/QuillCodes/status/1310635087210446854)
+
+---
+
+
 #### [What are some #dotnet anti-patterns that have made you do a double-take? <br /><br />Maybe something easily overlooked until you actually dug in and saw it being used.<br /><br />I still have nightmares of an enum called ExtendedBool 😬](https://twitter.com/QuillCodes/status/1309687078754476033)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Are your followers part of the Herd Brentality? 🤔](https://twitter.com/QuillCodes/status/1306095434822115328)
-
----
-
-
-#### [Voting my mail means you can vote naked. <br /><br />That's It. That's the Tweet.](https://twitter.com/QuillCodes/status/1303875844192874496)
 <!-- END TWEETS -->
 
 <!--
