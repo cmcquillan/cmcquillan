@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Learning a new framework is more challenging than learning a new language](https://twitter.com/QuillCodes/status/1310985872230109184)
+
+---
+
+
 #### [Strange things you can do with Trump's tax money: you can probably get a pet capybara for the amount of money Trump has paid in taxes.](https://twitter.com/QuillCodes/status/1310635087210446854)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [What's stopping you from coding like this?](https://twitter.com/QuillCodes/status/1306830169013805056)
-
----
-
-
-#### [Are your followers part of the Herd Brentality? 🤔](https://twitter.com/QuillCodes/status/1306095434822115328)
 <!-- END TWEETS -->
 
 <!--
