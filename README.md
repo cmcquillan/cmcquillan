@@ -10,6 +10,16 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Trump had the biggest/best interruptions. The greatest in the world. <br /><br />#PresidentialDebate2020](https://twitter.com/QuillCodes/status/1311122459257520128)
+
+---
+
+
+#### [Presidential Debate thread... 🧵<br /><br />Though my first reaction is "What debate?" because Trump's whole plan is just to rant and never give up the mic.](https://twitter.com/QuillCodes/status/1311114551031549953)
+
+---
+
+
 #### [Learning a new framework is more challenging than learning a new language](https://twitter.com/QuillCodes/status/1310985872230109184)
 
 ---
@@ -31,16 +41,6 @@
 
 
 #### [Does #breadtwitter exist? Just feeling pretty proud of this sourdough.](https://twitter.com/QuillCodes/status/1309193942034857986)
-
----
-
-
-#### [Hoping to make access to #dotnet a little easier by showing how you can rapidly prototype a URL Shortener with .NET 5 and LiteDB<br /><br />](https://twitter.com/QuillCodes/status/1309166400351735808)
-
----
-
-
-#### [What's stopping you from coding like this?](https://twitter.com/QuillCodes/status/1306830169013805056)
 <!-- END TWEETS -->
 
 <!--
