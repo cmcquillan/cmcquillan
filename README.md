@@ -10,6 +10,21 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [What a terrible pilot, hope this show gets cancelled.<br /><br />#Debates2020](https://twitter.com/QuillCodes/status/1311134897193455616)
+
+---
+
+
+#### [Watching the #Debates2020](https://twitter.com/QuillCodes/status/1311130574757617664)
+
+---
+
+
+#### [The screen Trump was hoping for when asked to condemn white supremacists<br />#Debates2020](https://twitter.com/QuillCodes/status/1311128952845422593)
+
+---
+
+
 #### [Trump had the biggest/best interruptions. The greatest in the world. <br /><br />#PresidentialDebate2020](https://twitter.com/QuillCodes/status/1311122459257520128)
 
 ---
@@ -26,21 +41,6 @@
 
 
 #### [Strange things you can do with Trump's tax money: you can probably get a pet capybara for the amount of money Trump has paid in taxes.](https://twitter.com/QuillCodes/status/1310635087210446854)
-
----
-
-
-#### [What are some #dotnet anti-patterns that have made you do a double-take? <br /><br />Maybe something easily overlooked until you actually dug in and saw it being used.<br /><br />I still have nightmares of an enum called ExtendedBool 😬](https://twitter.com/QuillCodes/status/1309687078754476033)
-
----
-
-
-#### [Haven't been out of my house since March. Very grating but so very important 😬 ](https://twitter.com/QuillCodes/status/1309575657781780480)
-
----
-
-
-#### [Does #breadtwitter exist? Just feeling pretty proud of this sourdough.](https://twitter.com/QuillCodes/status/1309193942034857986)
 <!-- END TWEETS -->
 
 <!--
