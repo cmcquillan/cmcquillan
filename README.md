@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [#TrumpHasCovid but he was just on a debate stage with Joe Biden... Is Biden OK?<br /><br />I'm really done with 2020 😟](https://twitter.com/QuillCodes/status/1311896991056551942)
+
+---
+
+
 #### [What a terrible pilot, hope this show gets cancelled.<br /><br />#Debates2020](https://twitter.com/QuillCodes/status/1311134897193455616)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Learning a new framework is more challenging than learning a new language](https://twitter.com/QuillCodes/status/1310985872230109184)
-
----
-
-
-#### [Strange things you can do with Trump's tax money: you can probably get a pet capybara for the amount of money Trump has paid in taxes.](https://twitter.com/QuillCodes/status/1310635087210446854)
 <!-- END TWEETS -->
 
 <!--
