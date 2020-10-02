@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [I suddenly really need a LinkedIn dark mode](https://twitter.com/QuillCodes/status/1312166745482752001)
+
+---
+
+
 #### [#TrumpHasCovid but he was just on a debate stage with Joe Biden... Is Biden OK?<br /><br />I'm really done with 2020 😟](https://twitter.com/QuillCodes/status/1311896991056551942)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Presidential Debate thread... 🧵<br /><br />Though my first reaction is "What debate?" because Trump's whole plan is just to rant and never give up the mic.](https://twitter.com/QuillCodes/status/1311114551031549953)
-
----
-
-
-#### [Learning a new framework is more challenging than learning a new language](https://twitter.com/QuillCodes/status/1310985872230109184)
 <!-- END TWEETS -->
 
 <!--
