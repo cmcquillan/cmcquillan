@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [If you call yourself a developer and use a mouse for editing code, I just assume you have found a comfortable workflow that maximizes your personal productivity. Keep it up!](https://twitter.com/QuillCodes/status/1312528671899488256)
+
+---
+
+
 #### [I suddenly really need a LinkedIn dark mode](https://twitter.com/QuillCodes/status/1312166745482752001)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Trump had the biggest/best interruptions. The greatest in the world. <br /><br />#PresidentialDebate2020](https://twitter.com/QuillCodes/status/1311122459257520128)
-
----
-
-
-#### [Presidential Debate thread... 🧵<br /><br />Though my first reaction is "What debate?" because Trump's whole plan is just to rant and never give up the mic.](https://twitter.com/QuillCodes/status/1311114551031549953)
 <!-- END TWEETS -->
 
 <!--
