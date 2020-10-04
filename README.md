@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [What happens when you neglect the scallions you thought you'd plant in the side yard? You grow a green cthulhu](https://twitter.com/QuillCodes/status/1312577097626386432)
+
+---
+
+
 #### [If you call yourself a developer and use a mouse for editing code, I just assume you have found a comfortable workflow that maximizes your personal productivity. Keep it up!](https://twitter.com/QuillCodes/status/1312528671899488256)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [The screen Trump was hoping for when asked to condemn white supremacists<br />#Debates2020](https://twitter.com/QuillCodes/status/1311128952845422593)
-
----
-
-
-#### [Trump had the biggest/best interruptions. The greatest in the world. <br /><br />#PresidentialDebate2020](https://twitter.com/QuillCodes/status/1311122459257520128)
 <!-- END TWEETS -->
 
 <!--
