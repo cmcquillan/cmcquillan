@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [There's no big secret to productivity. Just keep your plate small and clean it frequently.](https://twitter.com/QuillCodes/status/1313158123146731521)
+
+---
+
+
 #### [What happens when you neglect the scallions you thought you'd plant in the side yard? You grow a green cthulhu](https://twitter.com/QuillCodes/status/1312577097626386432)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Watching the #Debates2020](https://twitter.com/QuillCodes/status/1311130574757617664)
-
----
-
-
-#### [The screen Trump was hoping for when asked to condemn white supremacists<br />#Debates2020](https://twitter.com/QuillCodes/status/1311128952845422593)
 <!-- END TWEETS -->
 
 <!--
