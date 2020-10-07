@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [My Alexa flash briefing only lasted six minutes in 2019](https://twitter.com/QuillCodes/status/1313941248764387328)
+
+---
+
+
 #### [There's no big secret to productivity. Just keep your plate small and clean it frequently.](https://twitter.com/QuillCodes/status/1313158123146731521)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [What a terrible pilot, hope this show gets cancelled.<br /><br />#Debates2020](https://twitter.com/QuillCodes/status/1311134897193455616)
-
----
-
-
-#### [Watching the #Debates2020](https://twitter.com/QuillCodes/status/1311130574757617664)
 <!-- END TWEETS -->
 
 <!--
