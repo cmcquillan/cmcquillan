@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Boom! Just passed my @azure exam and got my MCSD cert from @microsoft. Wanted to snag this one before they retired it in January 😎 ](https://twitter.com/QuillCodes/status/1316814562658848768)
+
+---
+
+
 #### [My Alexa flash briefing only lasted six minutes in 2019](https://twitter.com/QuillCodes/status/1313941248764387328)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [#TrumpHasCovid but he was just on a debate stage with Joe Biden... Is Biden OK?<br /><br />I'm really done with 2020 😟](https://twitter.com/QuillCodes/status/1311896991056551942)
-
----
-
-
-#### [What a terrible pilot, hope this show gets cancelled.<br /><br />#Debates2020](https://twitter.com/QuillCodes/status/1311134897193455616)
 <!-- END TWEETS -->
 
 <!--
