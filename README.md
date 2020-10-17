@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Working on some fun stuff which I'd like to write about soon, but in the meantime here's a quick rundown on expression-bodied members in C#!  This is probably one of my favorite features for keeping class files looking tidy. ](https://twitter.com/QuillCodes/status/1317260141796864000)
+
+---
+
+
 #### [Boom! Just passed my @azure exam and got my MCSD cert from @microsoft. Wanted to snag this one before they retired it in January 😎 ](https://twitter.com/QuillCodes/status/1316814562658848768)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [I suddenly really need a LinkedIn dark mode](https://twitter.com/QuillCodes/status/1312166745482752001)
-
----
-
-
-#### [#TrumpHasCovid but he was just on a debate stage with Joe Biden... Is Biden OK?<br /><br />I'm really done with 2020 😟](https://twitter.com/QuillCodes/status/1311896991056551942)
 <!-- END TWEETS -->
 
 <!--
