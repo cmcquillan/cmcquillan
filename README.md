@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [I just don't know. Most of these seem almost tame for 2020.](https://twitter.com/QuillCodes/status/1319690542914039810)
+
+---
+
+
 #### [Working on some fun stuff which I'd like to write about soon, but in the meantime here's a quick rundown on expression-bodied members in C#!  This is probably one of my favorite features for keeping class files looking tidy. ](https://twitter.com/QuillCodes/status/1317260141796864000)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [If you call yourself a developer and use a mouse for editing code, I just assume you have found a comfortable workflow that maximizes your personal productivity. Keep it up!](https://twitter.com/QuillCodes/status/1312528671899488256)
-
----
-
-
-#### [I suddenly really need a LinkedIn dark mode](https://twitter.com/QuillCodes/status/1312166745482752001)
 <!-- END TWEETS -->
 
 <!--
