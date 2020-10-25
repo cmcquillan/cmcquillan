@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Back when D.C. food trucks could just congregate anywhere. It was fun to just try three or four small plates on a weekend. Felt like real street food for a while.<br />](https://twitter.com/QuillCodes/status/1320444007663583232)
+
+---
+
+
 #### [Realizing I had some decent photos from years ago. Uploading them to @unsplash to share.  ](https://twitter.com/QuillCodes/status/1320439613022892033)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [There's no big secret to productivity. Just keep your plate small and clean it frequently.](https://twitter.com/QuillCodes/status/1313158123146731521)
-
----
-
-
-#### [What happens when you neglect the scallions you thought you'd plant in the side yard? You grow a green cthulhu](https://twitter.com/QuillCodes/status/1312577097626386432)
 <!-- END TWEETS -->
 
 <!--
