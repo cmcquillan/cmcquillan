@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Realizing I had some decent photos from years ago. Uploading them to @unsplash to share.  ](https://twitter.com/QuillCodes/status/1320439613022892033)
+
+---
+
+
 #### [I just don't know. Most of these seem almost tame for 2020.](https://twitter.com/QuillCodes/status/1319690542914039810)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [What happens when you neglect the scallions you thought you'd plant in the side yard? You grow a green cthulhu](https://twitter.com/QuillCodes/status/1312577097626386432)
-
----
-
-
-#### [If you call yourself a developer and use a mouse for editing code, I just assume you have found a comfortable workflow that maximizes your personal productivity. Keep it up!](https://twitter.com/QuillCodes/status/1312528671899488256)
 <!-- END TWEETS -->
 
 <!--
