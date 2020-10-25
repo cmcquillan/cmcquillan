@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Rich Uber-investor thinks Uber is good. News at 11.](https://twitter.com/QuillCodes/status/1320457645652754432)
+
+---
+
+
 #### [Back when D.C. food trucks could just congregate anywhere. It was fun to just try three or four small plates on a weekend. Felt like real street food for a while.<br />](https://twitter.com/QuillCodes/status/1320444007663583232)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [My Alexa flash briefing only lasted six minutes in 2019](https://twitter.com/QuillCodes/status/1313941248764387328)
-
----
-
-
-#### [There's no big secret to productivity. Just keep your plate small and clean it frequently.](https://twitter.com/QuillCodes/status/1313158123146731521)
 <!-- END TWEETS -->
 
 <!--
