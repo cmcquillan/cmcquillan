@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [I was already feeling super productive with @AzureFunctions  apps and they now support generating the app from an OpenAPI spec 🤯<br /><br />I love using the "spec first" approach so this might be a game-changer for me 💯<br /><br />](https://twitter.com/QuillCodes/status/1321494116228685824)
+
+---
+
+
 #### [Rich Uber-investor thinks Uber is good. News at 11.](https://twitter.com/QuillCodes/status/1320457645652754432)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Boom! Just passed my @azure exam and got my MCSD cert from @microsoft. Wanted to snag this one before they retired it in January 😎 ](https://twitter.com/QuillCodes/status/1316814562658848768)
-
----
-
-
-#### [My Alexa flash briefing only lasted six minutes in 2019](https://twitter.com/QuillCodes/status/1313941248764387328)
 <!-- END TWEETS -->
 
 <!--
