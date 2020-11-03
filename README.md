@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [If you haven't yet, go vote!](https://twitter.com/QuillCodes/status/1323709721929396224)
+
+---
+
+
 #### [Is Alton Brown OK...](https://twitter.com/QuillCodes/status/1323465667857674241)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Realizing I had some decent photos from years ago. Uploading them to @unsplash to share.  ](https://twitter.com/QuillCodes/status/1320439613022892033)
-
----
-
-
-#### [I just don't know. Most of these seem almost tame for 2020.](https://twitter.com/QuillCodes/status/1319690542914039810)
 <!-- END TWEETS -->
 
 <!--
