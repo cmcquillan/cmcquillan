@@ -30,17 +30,17 @@
 ---
 
 
-#### [Rich Uber-investor thinks Uber is good. News at 11.](https://twitter.com/QuillCodes/status/1320457645652754432)
-
----
-
-
 #### [Back when D.C. food trucks could just congregate anywhere. It was fun to just try three or four small plates on a weekend. Felt like real street food for a while.<br />](https://twitter.com/QuillCodes/status/1320444007663583232)
 
 ---
 
 
 #### [Realizing I had some decent photos from years ago. Uploading them to @unsplash to share.  ](https://twitter.com/QuillCodes/status/1320439613022892033)
+
+---
+
+
+#### [I just don't know. Most of these seem almost tame for 2020.](https://twitter.com/QuillCodes/status/1319690542914039810)
 <!-- END TWEETS -->
 
 <!--
