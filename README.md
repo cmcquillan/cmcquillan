@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Going back to Full-time Employment has been interesting. I had forgotten how freeing it feels to just schedule PTO and not have to worry about billing hours 😊](https://twitter.com/QuillCodes/status/1342176760532664320)
+
+---
+
+
 #### [So brilliant 🤣](https://twitter.com/QuillCodes/status/1324957818567323648)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Back when D.C. food trucks could just congregate anywhere. It was fun to just try three or four small plates on a weekend. Felt like real street food for a while.<br />](https://twitter.com/QuillCodes/status/1320444007663583232)
-
----
-
-
-#### [Realizing I had some decent photos from years ago. Uploading them to @unsplash to share.  ](https://twitter.com/QuillCodes/status/1320439613022892033)
 <!-- END TWEETS -->
 
 <!--
