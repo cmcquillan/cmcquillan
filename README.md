@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [A lot of this hasn't really sunk in yet for me today. But the one thing I can't get out of my head is that Congressional Pages were probably present.<br /><br />They're in high school.<br /><br />There were kids there...](https://twitter.com/QuillCodes/status/1347040569013374977)
+
+---
+
+
 #### [Going back to Full-time Employment has been interesting. I had forgotten how freeing it feels to just schedule PTO and not have to worry about billing hours 😊](https://twitter.com/QuillCodes/status/1342176760532664320)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [I was already feeling super productive with @AzureFunctions  apps and they now support generating the app from an OpenAPI spec 🤯<br /><br />I love using the "spec first" approach so this might be a game-changer for me 💯<br /><br />](https://twitter.com/QuillCodes/status/1321494116228685824)
-
----
-
-
-#### [Back when D.C. food trucks could just congregate anywhere. It was fun to just try three or four small plates on a weekend. Felt like real street food for a while.<br />](https://twitter.com/QuillCodes/status/1320444007663583232)
 <!-- END TWEETS -->
 
 <!--
