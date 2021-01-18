@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [I'm pretty convinced that a disgruntled Parler employee must have snuck a Bitcoin miner into the codebase. I can't imagine needing this much hardware for a little network.](https://twitter.com/QuillCodes/status/1350982061394440198)
+
+---
+
+
 #### [A lot of this hasn't really sunk in yet for me today. But the one thing I can't get out of my head is that Congressional Pages were probably present.<br /><br />They're in high school.<br /><br />There were kids there...](https://twitter.com/QuillCodes/status/1347040569013374977)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [I wrote up a deep dive I did on String.Create() performance in .NET Core. This is also a small window to my mind when I see something new and how I dig around to learn more about it.<br /><br />](https://twitter.com/QuillCodes/status/1321852944816332800)
-
----
-
-
-#### [I was already feeling super productive with @AzureFunctions  apps and they now support generating the app from an OpenAPI spec 🤯<br /><br />I love using the "spec first" approach so this might be a game-changer for me 💯<br /><br />](https://twitter.com/QuillCodes/status/1321494116228685824)
 <!-- END TWEETS -->
 
 <!--
