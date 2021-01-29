@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Trying out CSS Art<br /><br />No Dice 😅<br /><br /> via @CodePen](https://twitter.com/QuillCodes/status/1355018517171507200)
+
+---
+
+
 #### [I'm pretty convinced that a disgruntled Parler employee must have snuck a Bitcoin miner into the codebase. I can't imagine needing this much hardware for a little network.](https://twitter.com/QuillCodes/status/1350982061394440198)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Is Alton Brown OK...](https://twitter.com/QuillCodes/status/1323465667857674241)
-
----
-
-
-#### [I wrote up a deep dive I did on String.Create() performance in .NET Core. This is also a small window to my mind when I see something new and how I dig around to learn more about it.<br /><br />](https://twitter.com/QuillCodes/status/1321852944816332800)
 <!-- END TWEETS -->
 
 <!--
