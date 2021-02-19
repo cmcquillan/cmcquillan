@@ -10,6 +10,16 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [I mean what the hell](https://twitter.com/QuillCodes/status/1362645335764426755)
+
+---
+
+
+#### [Patagonia trending because of Ted Cruz is my definition of love-hate.](https://twitter.com/QuillCodes/status/1362644934780592128)
+
+---
+
+
 #### [Trying out CSS Art<br /><br />No Dice 😅<br /><br /> via @CodePen](https://twitter.com/QuillCodes/status/1355018517171507200)
 
 ---
@@ -31,16 +41,6 @@
 
 
 #### [So brilliant 🤣](https://twitter.com/QuillCodes/status/1324957818567323648)
-
----
-
-
-#### [If you haven't yet, go vote!](https://twitter.com/QuillCodes/status/1323709721929396224)
-
----
-
-
-#### [Is Alton Brown OK...](https://twitter.com/QuillCodes/status/1323465667857674241)
 <!-- END TWEETS -->
 
 <!--
