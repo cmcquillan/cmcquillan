@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Rich Republican accidentally explains that a cook was making the equivalent of $27/hour in the 70s but paying $15 now would "crush" the poor poor businesses.](https://twitter.com/QuillCodes/status/1364761782422659072)
+
+---
+
+
 #### [I mean what the hell](https://twitter.com/QuillCodes/status/1362645335764426755)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Going back to Full-time Employment has been interesting. I had forgotten how freeing it feels to just schedule PTO and not have to worry about billing hours 😊](https://twitter.com/QuillCodes/status/1342176760532664320)
-
----
-
-
-#### [So brilliant 🤣](https://twitter.com/QuillCodes/status/1324957818567323648)
 <!-- END TWEETS -->
 
 <!--
