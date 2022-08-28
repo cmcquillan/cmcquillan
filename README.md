@@ -10,37 +10,37 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
-#### [Rich Republican accidentally explains that a cook was making the equivalent of $27/hour in the 70s but paying $15 now would "crush" the poor poor businesses.](https://twitter.com/QuillCodes/status/1364761782422659072)
+#### [Gen Z got ahold of the White House account 🤣](https://twitter.com/QuillCodes/status/1562951837979799552)
 
 ---
 
 
-#### [I mean what the hell](https://twitter.com/QuillCodes/status/1362645335764426755)
+#### [The deeper I get into my programming career the more my home project is the only chance I get to code 😂<br /><br />So much more time now gets spent on design, reviews, and meetings 🥲](https://twitter.com/QuillCodes/status/1551389327732592640)
 
 ---
 
 
-#### [Patagonia trending because of Ted Cruz is my definition of love-hate.](https://twitter.com/QuillCodes/status/1362644934780592128)
+#### [I will never get over the magic of programming: 3 days ago I had an idea, and now I have a $12,000 AWS bill.](https://twitter.com/QuillCodes/status/1544758038753468417)
 
 ---
 
 
-#### [Trying out CSS Art<br /><br />No Dice 😅<br /><br /> via @CodePen](https://twitter.com/QuillCodes/status/1355018517171507200)
+#### [Seeing auto-correct cursing a lot more in the wild these days.<br /><br />I can't wait to get shushed by "Language!!!" when I'm 70 and my wife overhears me complain that I forgot my ducking PIN number](https://twitter.com/QuillCodes/status/1544396967739936768)
 
 ---
 
 
-#### [I'm pretty convinced that a disgruntled Parler employee must have snuck a Bitcoin miner into the codebase. I can't imagine needing this much hardware for a little network.](https://twitter.com/QuillCodes/status/1350982061394440198)
+#### ["You all defended Roe too much, so this cruelty is on you" is a level of deflection I wasn't expecting.](https://twitter.com/QuillCodes/status/1543457497335230464)
 
 ---
 
 
-#### [A lot of this hasn't really sunk in yet for me today. But the one thing I can't get out of my head is that Congressional Pages were probably present.<br /><br />They're in high school.<br /><br />There were kids there...](https://twitter.com/QuillCodes/status/1347040569013374977)
+#### [SCOTUS is very adamant that the Constitution doesn't allow for anything not explicitly written down. They also don't find it ironic that they just made up Judicial Review in 1803.](https://twitter.com/QuillCodes/status/1540855516372512768)
 
 ---
 
 
-#### [Going back to Full-time Employment has been interesting. I had forgotten how freeing it feels to just schedule PTO and not have to worry about billing hours 😊](https://twitter.com/QuillCodes/status/1342176760532664320)
+#### [I can't even, here's a gif ](https://twitter.com/QuillCodes/status/1528149995290906625)
 <!-- END TWEETS -->
 
 <!--
