@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [My wife just dropped this in her Etsy shop and I'm wondering if I should worry💀](https://twitter.com/QuillCodes/status/1580788762430144512)
+
+---
+
+
 #### [Gen Z got ahold of the White House account 🤣](https://twitter.com/QuillCodes/status/1562951837979799552)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [SCOTUS is very adamant that the Constitution doesn't allow for anything not explicitly written down. They also don't find it ironic that they just made up Judicial Review in 1803.](https://twitter.com/QuillCodes/status/1540855516372512768)
-
----
-
-
-#### [I can't even, here's a gif ](https://twitter.com/QuillCodes/status/1528149995290906625)
 <!-- END TWEETS -->
 
 <!--
