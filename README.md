@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Does the caution tape protect them from pedestrians, or is it the other way around...](https://twitter.com/QuillCodes/status/1582191931181871104)
+
+---
+
+
 #### [My wife just dropped this in her Etsy shop and I'm wondering if I should worry💀](https://twitter.com/QuillCodes/status/1580788762430144512)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### ["You all defended Roe too much, so this cruelty is on you" is a level of deflection I wasn't expecting.](https://twitter.com/QuillCodes/status/1543457497335230464)
-
----
-
-
-#### [SCOTUS is very adamant that the Constitution doesn't allow for anything not explicitly written down. They also don't find it ironic that they just made up Judicial Review in 1803.](https://twitter.com/QuillCodes/status/1540855516372512768)
 <!-- END TWEETS -->
 
 <!--
