@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Playing around with ImageSharp and word cloud algorithms. My word placement implementation is definitely imprecise but finally spitting this out was a delight. Text input: Treasure Island. #csharp #dotnet](https://twitter.com/QuillCodes/status/1584438220539822080)
+
+---
+
+
 #### [Does the caution tape protect them from pedestrians, or is it the other way around...](https://twitter.com/QuillCodes/status/1582191931181871104)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Seeing auto-correct cursing a lot more in the wild these days.<br /><br />I can't wait to get shushed by "Language!!!" when I'm 70 and my wife overhears me complain that I forgot my ducking PIN number](https://twitter.com/QuillCodes/status/1544396967739936768)
-
----
-
-
-#### ["You all defended Roe too much, so this cruelty is on you" is a level of deflection I wasn't expecting.](https://twitter.com/QuillCodes/status/1543457497335230464)
 <!-- END TWEETS -->
 
 <!--
