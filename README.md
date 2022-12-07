@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Good Job, Bob](https://twitter.com/QuillCodes/status/1600376789100265472)
+
+---
+
+
 #### [Playing around with ImageSharp and word cloud algorithms. My word placement implementation is definitely imprecise but finally spitting this out was a delight. Text input: Treasure Island. #csharp #dotnet](https://twitter.com/QuillCodes/status/1584438220539822080)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [I will never get over the magic of programming: 3 days ago I had an idea, and now I have a $12,000 AWS bill.](https://twitter.com/QuillCodes/status/1544758038753468417)
-
----
-
-
-#### [Seeing auto-correct cursing a lot more in the wild these days.<br /><br />I can't wait to get shushed by "Language!!!" when I'm 70 and my wife overhears me complain that I forgot my ducking PIN number](https://twitter.com/QuillCodes/status/1544396967739936768)
 <!-- END TWEETS -->
 
 <!--
