@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Cryptocurrency... putty?](https://twitter.com/QuillCodes/status/1601683766849642497)
+
+---
+
+
 #### [Good Job, Bob](https://twitter.com/QuillCodes/status/1600376789100265472)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [The deeper I get into my programming career the more my home project is the only chance I get to code 😂<br /><br />So much more time now gets spent on design, reviews, and meetings 🥲](https://twitter.com/QuillCodes/status/1551389327732592640)
-
----
-
-
-#### [I will never get over the magic of programming: 3 days ago I had an idea, and now I have a $12,000 AWS bill.](https://twitter.com/QuillCodes/status/1544758038753468417)
 <!-- END TWEETS -->
 
 <!--
