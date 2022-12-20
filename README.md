@@ -10,6 +10,11 @@
 ## Recent Twitter Feed (updated hourly)
 
 <!-- BEGIN TWEETS -->
+#### [Literally no one:<br /><br />My cat:<br /><br />](https://twitter.com/QuillCodes/status/1605067244093857792)
+
+---
+
+
 #### [Cryptocurrency... putty?](https://twitter.com/QuillCodes/status/1601683766849642497)
 
 ---
@@ -36,11 +41,6 @@
 
 
 #### [Gen Z got ahold of the White House account 🤣](https://twitter.com/QuillCodes/status/1562951837979799552)
-
----
-
-
-#### [The deeper I get into my programming career the more my home project is the only chance I get to code 😂<br /><br />So much more time now gets spent on design, reviews, and meetings 🥲](https://twitter.com/QuillCodes/status/1551389327732592640)
 <!-- END TWEETS -->
 
 <!--
